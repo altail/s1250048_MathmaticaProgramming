@@ -15,4 +15,6 @@ int main(){
 
   printf("%f",1-now);
   printf("\n教科書ver.\n%f\n",1-text);
+  
+  return 0;
 }
