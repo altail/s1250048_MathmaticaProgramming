@@ -1,4 +1,4 @@
-public class sample{
+class sample{
   public static void main(String[] args){
     double basic=35.0/36;
     double now=35.0/36;
